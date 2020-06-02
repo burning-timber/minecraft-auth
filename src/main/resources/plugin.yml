@@ -1,0 +1,9 @@
+name: BtAuth
+version: ${project.version}
+main: com.burningtimber.minecraft.btauth.BtAuth
+api-version: 1.13
+prefix: BTAUTH
+load: STARTUP
+authors: [BurningTimber]
+description: Authenticates users based on their Burning Timber user accounts
+website: https://minecraft.burningtimber.com
